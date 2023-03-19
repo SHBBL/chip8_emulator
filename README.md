@@ -11,10 +11,9 @@ This document is a compilation of all the different sources of information I use
 
 | 1 | 2  | 3 | 3 | 4 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Opera |  ✅ | ✅  | ✅ | ✅
-| Chrome |  ✅ | ✅  | ✅ | ✅
-| Microsoft Edge |  ✅ | ✅  | ✅ | ✅
-| Brave |  ✅ | ✅  | ✅ | ✅
+| 5 | 6 | 7 | 7 | 
+| 8 | 9 | 10 | a | b
+| c | d | e | f |
 
 
 
