@@ -9,10 +9,10 @@ This document is a compilation of all the different sources of information I use
 
 
 
-## Keypad:
+##Keypad:
   
  ``` 
-   Keypad and keyboard               
+ Keypad and keyboard               
  +-+-+-+-+               
  |1|2|3|C|               
  +-+-+-+-+               
