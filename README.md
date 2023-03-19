@@ -7,9 +7,16 @@ Chip-48 inspired a whole new crop of Chip-8 interpreters for various platforms, 
 
 This document is a compilation of all the different sources of information I used while programming my interpreter.
 
-## Controls
+## Controls:
 
-1  2  3  C
-4  5  6  D
-7  8  9  E
-A  0  B  F
+| 1 | 2  | 3 | 3 | 4 |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Opera |  ✅ | ✅  | ✅ | ✅
+| Chrome |  ✅ | ✅  | ✅ | ✅
+| Microsoft Edge |  ✅ | ✅  | ✅ | ✅
+| Brave |  ✅ | ✅  | ✅ | ✅
+
+
+
+
+
