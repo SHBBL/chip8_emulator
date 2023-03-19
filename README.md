@@ -6,3 +6,10 @@ Chip-8 is a simple, interpreted, programming language which was first used on so
 Chip-48 inspired a whole new crop of Chip-8 interpreters for various platforms, including MS-DOS, Windows 3.1, Amiga, HP48, MSX, Adam, and ColecoVision. I became involved with Chip-8 after stumbling upon Paul Robson's interpreter on the World Wide Web. Shortly after that, I began writing my own Chip-8 interpreter.
 
 This document is a compilation of all the different sources of information I used while programming my interpreter.
+
+## Controls
+
+1  2  3  C
+4  5  6  D
+7  8  9  E
+A  0  B  F
