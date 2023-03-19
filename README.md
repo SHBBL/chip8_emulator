@@ -7,14 +7,23 @@ Chip-48 inspired a whole new crop of Chip-8 interpreters for various platforms, 
 
 This document is a compilation of all the different sources of information I used while programming my interpreter.
 
-## Controls:
-
-| 1 | 2  | 3 | 3 | 4 |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 5 | 6 | 7 | 8 | 9 | 10 |
- a | b| c | d | e f |
 
 
+## Keypad 
+  
+ ``` 
+ Keypad                   Keyboard 
+ +-+-+-+-+                +-+-+-+-+ 
+ |1|2|3|C|                |1|2|3|4| 
+ +-+-+-+-+                +-+-+-+-+ 
+ |4|5|6|D|                |Q|W|E|R| 
+ +-+-+-+-+       =>       +-+-+-+-+ 
+ |7|8|9|E|                |A|S|D|F| 
+ +-+-+-+-+                +-+-+-+-+ 
+ |A|0|B|F|                |Z|X|C|V| 
+ +-+-+-+-+                +-+-+-+-+ 
+ ``` 
+ 
 
 
 
