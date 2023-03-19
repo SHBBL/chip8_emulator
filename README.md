@@ -9,7 +9,7 @@ This document is a compilation of all the different sources of information I use
 
 
 
-##Keypad:
+## Keypad:
   
  ``` 
  Keypad and keyboard               
