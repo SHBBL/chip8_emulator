@@ -1,0 +1,15 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define CHIP8_LOADADDR 0x200
+#define CHIP8_WIDTH 640
+#define CHIP8_HEIGHT 320
+#define CHIP8_SCREEN_WIDTH 64
+#define CHIP8_SCREEN_HEIGHT 32
+#define CHIP8_TITLE "Chip8 Emulator"
+#define CHIP8_MEMSIZE 4096
+#define CHIP8_REGNUM 16
+#define CHIP8_STACKSIZE 16
+#define CHIP8_KEYNUM 16
+#define CHIP8_DEFUALT_HEIGHT 5
+#endif
