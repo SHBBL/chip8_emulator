@@ -24,7 +24,7 @@ This document is a compilation of all the different sources of information I use
 ```
 ## Installation:
 ```
-git clone https://github.com/shbbl/chip8
+git clone https://github.com/SHBBL/chip8_emulator.git
 cd chip8
 mingw32-make && cd bin
 ```
@@ -34,10 +34,11 @@ main.exe <rom game from /roms>
 ``
 
 ## Screenshots:
-
+[Space Invaders](https://github.com/SHBBL/chip8_emulator/blob/invaders.png)
+[Space Invaders](https://github.com/SHBBL/chip8_emulator/blob/invaders2.png)
 
 ## dependencies:
-* C/C++ Gcc 
+* C/C++ Gcc
 * SDL2
 * Mingw32-make for Make Manual Compilation
 
