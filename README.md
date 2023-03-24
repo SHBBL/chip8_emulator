@@ -23,9 +23,9 @@ This document is a compilation of all the different sources of information I use
  +-+-+-+-+   
    '''
 ## dependencies:
-*Gnu C Gcc
-*SDL2
-*Mingw32 for Make Manual Compilation
+* Gnu C Gcc
+* SDL2
+* Mingw32 for Make Manual Compilation
 
 
 
