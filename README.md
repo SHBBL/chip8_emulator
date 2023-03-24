@@ -27,7 +27,7 @@ This document is a compilation of all the different sources of information I use
 ## Installation:
 ```
 git clone https://github.com/SHBBL/chip8_emulator.git
-cd chip8
+cd chip8_emulator
 mingw32-make && cd bin
 ```
 ## Usage:
