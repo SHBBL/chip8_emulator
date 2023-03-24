@@ -10,8 +10,7 @@ This document is a compilation of all the different sources of information I use
 
 
 ## Keypad:
-  
- ``` 
+ ```
  Keypad and keyboard               
  +-+-+-+-+               
  |1|2|3|C|               
@@ -22,9 +21,25 @@ This document is a compilation of all the different sources of information I use
  +-+-+-+-+       
  |A|0|B|F|                
  +-+-+-+-+   
- ``` 
- 
+```
+## Installation:
+```
+git clone https://github.com/shbbl/chip8
+cd chip8
+mingw32-make && cd bin
+```
+## Usage:
+``
+main.exe <rom game from /roms>
+``
 
+## Screenshots:
+
+
+## dependencies:
+* C/C++ Gcc 
+* SDL2
+* Mingw32-make for Make Manual Compilation
 
 
 
