@@ -23,7 +23,9 @@ This document is a compilation of all the different sources of information I use
  +-+-+-+-+   
 ```
 ## Usage:
-maine.exe <rom game from /roms>
+``
+main.exe <rom game from /roms>
+``
 
 ## Screenshots:
 
