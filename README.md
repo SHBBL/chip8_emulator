@@ -34,8 +34,8 @@ main.exe <rom game from /roms>
 ``
 
 ## Screenshots:
-(https://github.com/SHBBL/chip8_emulator/blob/main/blob/invaders.png)
-(https://github.com/SHBBL/chip8_emulator/blob/main/blob/invaders2.png)
+![alt text](https://github.com/SHBBL/chip8_emulator/blob/main/blob/invaders.png)
+![alt text](https://github.com/SHBBL/chip8_emulator/blob/main/blob/invaders2.png)
 
 ## dependencies:
 * C/C++ Gcc
