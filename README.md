@@ -37,9 +37,9 @@ main.exe <rom game from /roms>
 
 
 ## dependencies:
-* Gnu C Gcc
+* C/C++ Gcc 
 * SDL2
-* Mingw32 for Make Manual Compilation
+* Mingw32-make for Make Manual Compilation
 
 
 
