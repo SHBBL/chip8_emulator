@@ -10,7 +10,7 @@ This document is a compilation of all the different sources of information I use
 
 
 ## Keypad:
-
+'''
  Keypad and keyboard               
  +-+-+-+-+               
  |1|2|3|C|               
@@ -21,7 +21,7 @@ This document is a compilation of all the different sources of information I use
  +-+-+-+-+       
  |A|0|B|F|                
  +-+-+-+-+   
- 
+'''
 ##dependencies:
 -Gnu C Gcc
 -SDL2
