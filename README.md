@@ -40,7 +40,7 @@ main.exe <rom game from /roms>
 ![alt text](https://github.com/SHBBL/chip8_emulator/blob/main/blob/invaders2.png)
 
 ## dependencies:
-* C/C++ Gcc
+* C/C++ Gcc (Mingw)
 * SDL2
 * Mingw32-make for Make Manual Compilation
 
