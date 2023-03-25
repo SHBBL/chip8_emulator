@@ -32,7 +32,7 @@ mingw32-make && cd bin
 ```
 ## Usage:
 ``
-main.exe <rom game from /roms>
+main.exe <rom game from /chip8_emulator/roms>
 ``
 
 ## Screenshots:
